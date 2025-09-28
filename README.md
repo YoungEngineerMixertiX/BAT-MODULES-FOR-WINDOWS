@@ -12,6 +12,7 @@ cmdmenusel COLORCOLOR "Hello!" "How are you?" - menu
 conshowcursor /func - func = hide/show
 bget https://url/hello.mp3 --output data\\files\\downloaded\\hi.mp3 - or bget https://url/hello.mp3 - download file from Ethernet
 jp.exe general.name test.json --output temp.tmp - get value from json file
+hpdp.exe data\test.hdp --key SegmentName.variable --output data\temp\SegmentName.tmp - for my language.
 
 # For you!
 
