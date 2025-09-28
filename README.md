@@ -2,6 +2,11 @@
 
 This repository contains my own batch modules, as well as modules created by others that I've collected or contributed to. It's a collection of useful Windows Batch scripts and utilities designed to make system automation easier.
 
+# WARNING!
+Antivirus maybe delete modules. 
+Because, modules unknown.
+But it's not dangerous. Just turn off antivirus or add the exceptions.
+Enjoy using it! <3
 ## Usage
 
 batbox /f 0 - full screen in CMD;
