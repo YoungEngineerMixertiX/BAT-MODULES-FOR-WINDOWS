@@ -13,6 +13,7 @@ conshowcursor /func - func = hide/show
 bget https://url/hello.mp3 --output data\\files\\downloaded\\hi.mp3 - or bget https://url/hello.mp3 - download file from Ethernet
 jp.exe general.name test.json --output temp.tmp - get value from json file
 hpdp.exe data\test.hdp --key SegmentName.variable --output data\temp\SegmentName.tmp - for my language.
+wip.exe -file data.win -adr 00000010 -ores out.tmp - for windows data. Got a values from address, from data.win in format ASCII
 
 # For you!
 
